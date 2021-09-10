@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".UpdateBoard">
+
+    <ImageView
+        android:id="@+id/update_image"
+        android:layout_width="300dp"
+        android:layout_height="292dp"
+        android:layout_marginTop="108dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <EditText
+        android:id="@+id/update_title"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:ems="10"
+        android:singleLine="true"
+        android:scrollHorizontally="false"
+        android:inputType="textMultiLine"
+        android:imeOptions="actionDone"
+        app:layout_constraintBottom_toTopOf="@+id/update_image"
+        app:layout_constraintEnd_toEndOf="@+id/update_image"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/update_image" />
+
+    <EditText
+        android:id="@+id/update_content"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:gravity="top"
+        android:singleLine="true"
+        android:maxLines="5"
+        android:scrollHorizontally="false"
+        android:inputType="textMultiLine"
+        app:layout_constraintEnd_toEndOf="@+id/update_image"
+        app:layout_constraintStart_toStartOf="@+id/update_image"
+        app:layout_constraintTop_toBottomOf="@+id/update_image" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="112dp"
+        android:text="제목 및 내용에 한하여 수정이 가능합니다."
+        android:textSize="10sp"
+        app:layout_constraintEnd_toEndOf="@+id/update_image"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/update_image"
+        app:layout_constraintTop_toBottomOf="@+id/update_content" />
+
+    <Button
+        android:id="@+id/back_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:text="취소"
+        android:background="@drawable/button"
+        app:layout_constraintEnd_toEndOf="@+id/update_image"
+        app:layout_constraintHorizontal_bias="0.561"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/update_content" />
+
+    <Button
+        android:id="@+id/update_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:text="수정"
+        android:background="@drawable/button2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.375"
+        app:layout_constraintStart_toEndOf="@+id/back_btn"
+        app:layout_constraintTop_toBottomOf="@+id/update_content" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

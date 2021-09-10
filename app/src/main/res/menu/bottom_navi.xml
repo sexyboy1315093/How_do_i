@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home2"
+        android:enabled="true"
+        android:icon="@drawable/free_icon_home_748015"
+        android:title="Home" />
+    <item
+        android:id="@+id/profile"
+        android:enabled="true"
+        android:icon="@drawable/free_icon_user_profile_14660"
+        android:title="Profile" />
+    <item
+        android:id="@+id/friend"
+        android:enabled="true"
+        android:icon="@drawable/free_icon_people_711168"
+        android:title="User" />
+    <item
+        android:id="@+id/talk"
+        android:enabled="true"
+        android:icon="@drawable/free_icon_dialog_554735"
+        android:title="Talk" />
+    <item
+        android:id="@+id/logout"
+        android:enabled="true"
+        android:icon="@drawable/free_icon_logout_992680"
+        android:title="Logout" />
+</menu>

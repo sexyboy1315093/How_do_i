@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/drawable-v24/leftchat.xml" value="0.3328125" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/drawable/background_splash.xml" value="0.3328125" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/drawable/button.xml" value="0.11203703703703703" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/drawable/button2.xml" value="0.21" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/drawable/button3.xml" value="0.11203703703703703" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/drawable/button_neutral_background.xml" value="0.3328125" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/drawable/button_warning_background.xml" value="0.3328125" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/drawable/dialog_background.xml" value="0.3328125" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/drawable/edit_bg.xml" value="0.3328125" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.3328125" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/drawable/ic_baseline_add_circle_outline_24.xml" value="0.2564814814814815" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/drawable/ic_baseline_emoji_emotions_24.xml" value="0.3328125" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/drawable/ic_baseline_more_horiz_24.xml" value="0.2564814814814815" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/drawable/ic_success.xml" value="0.3328125" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/drawable/layout_background.xml" value="0.3328125" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/drawable/rightchat.xml" value="0.3328125" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/drawable/sent_drawable.xml" value="0.3328125" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/drawable/talk_button_background.xml" value="0.3263534218590398" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/drawable/title_warning_background.xml" value="0.3328125" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/drawable/vie_bg.xml" value="0.3328125" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/font/aclonica.xml" value="0.35104166666666664" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/font/baloo.xml" value="0.35104166666666664" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/font/font.xml" value="0.35104166666666664" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/layout/activity_chat.xml" value="0.3125" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/layout/activity_email_join.xml" value="0.3125" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/layout/activity_email_login.xml" value="0.25" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/layout/activity_ripple.xml" value="0.3125" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/layout/activity_select_board.xml" value="0.3125" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/layout/activity_splash.xml" value="0.22" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/layout/activity_splash2.xml" value="0.3125" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/layout/activity_update_board.xml" value="0.3008130081300813" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/layout/chat_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/layout/dialog_background.xml" value="0.3125" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/layout/example.xml" value="0.26112759643916916" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/layout/fragment_board.xml" value="0.22" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/layout/fragment_friend.xml" value="0.22" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/layout/fragment_frient.xml" value="0.3125" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/layout/fragment_profile.xml" value="0.3020833333333333" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/layout/fragment_profile_change.xml" value="0.3020833333333333" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/layout/fragment_talk.xml" value="0.3125" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/layout/fragment_upload.xml" value="0.25" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/layout/fragment_upload2.xml" value="0.33" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/layout/friend_list.xml" value="0.33" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/layout/item_list.xml" value="0.25" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/layout/item_list2.xml" value="0.3125" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/layout/item_receive.xml" value="0.3125" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/layout/item_sent.xml" value="0.33" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/layout/layout_warning_dialog.xml" value="0.3125" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/layout/login_tab_fragment.xml" value="0.3125" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/layout/ripple_list.xml" value="0.33" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/layout/signup_tab_fragment.xml" value="0.3125" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/layout/small_board.xml" value="0.33" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/layout/talk_list.xml" value="0.33" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/menu/action_bar.xml" value="0.25" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/menu/bottom_navi.xml" value="0.3125" />
+        <entry key="..\:/android_java_firstproject/How_do_i/app/src/main/res/menu/popup_menu.xml" value="0.3125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="parent"
+        android:background="#fff">
+        <ImageView
+            android:id="@+id/friend_image"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:src="@drawable/a3"
+            android:padding="15dp"/>
+        <TextView
+            android:id="@+id/friend_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/friend_image"
+            android:text="username"
+            android:textColor="#000"
+            android:fontFamily="sans-serif"
+            android:textSize="16sp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="15dp"/>
+        <TextView
+            android:id="@+id/friend_email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/friend_image"
+            android:layout_below="@id/friend_name"
+            android:layout_marginLeft="20dp"
+            android:text="sexyboy0414@naver.com"
+            android:textSize="13sp"
+            android:fontFamily="sans-serif"/>
+
+        <Button
+            android:id="@+id/talk_btn"
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="15dp"
+            android:background="@drawable/talk_button_background"
+            android:text="대화하기"
+            android:textAllCaps="false" />
+
+    </RelativeLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
